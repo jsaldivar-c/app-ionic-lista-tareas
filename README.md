@@ -4,25 +4,18 @@ Aplicación hibrida que correrá en nuestro dispositivo **Android o IOS**.
 
 <br>
 
-![Ionic Lista de Tareas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602641633/GitHub/ionic-1_ezcwej.png "Ionic Lista de Tareas")
+![Ionic Lista de Tareas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602697382/GitHub/ionic-angular_2_pqffbn.png "Ionic Lista de Tareas")
 
-Creación de nueva lista de tareas. <br> <br> ![Ionic Lista de Tareas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602641633/GitHub/ionic-2_bkzt9g.png "Ionic Lista de Tareas")
-
-Lista de tareas terminadas.
+Nueva lista de tareas | Tareas terminadas.
 
 <br>
 <br>
 
-![Ionic Lista de Tareas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602641632/GitHub/ionic-3_pkfof3.png "Ionic Lista de Tareas")
+![Ionic Lista de Tareas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602697382/GitHub/ionic-angular_1_yaw5wu.png "Ionic Lista de Tareas")
 
-Eliminar lista de tareas.
+Eliminar y editar lista de tareas.
 
 <br>
-<br>
-
-![Ionic Lista de Tareas | Angular](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602641612/GitHub/ionic-4_tzhgy2.png "Ionic Lista de Tareas")
-
-Editar lista de tareas. <br> <br>
 
 ### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
 
